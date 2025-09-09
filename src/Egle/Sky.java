@@ -6,7 +6,8 @@ public class Sky {
 		System.out.println("Hello");
 		System.out.println("Vanakkam");
 		System.out.println("Welcome");
-
+		System.out.println("Hello world");
+        
 }
 
 }
